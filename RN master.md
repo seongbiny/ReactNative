@@ -8,5 +8,8 @@
   * style 속성도 웹에서 사용하던 모든 것을 사용할 수는 없다.
   * StyleSheet.create 사용하면 자동완성 기능 있음
 
-# React Native Packages
 
+
+* 모든 View 들이 기본적으로 Flex Container
+* RN에서는 Flex Direction의 기본값은 Column NOT row!
+* 

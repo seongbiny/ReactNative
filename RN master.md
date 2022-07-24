@@ -12,4 +12,4 @@
 
 * 모든 View 들이 기본적으로 Flex Container
 * RN에서는 Flex Direction의 기본값은 Column NOT row!
-* 
+* aa

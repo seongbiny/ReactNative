@@ -9,7 +9,7 @@ function DateHead({date}) {
 
   const {top} = useSafeAreaInsets();
 
-  const formatted = `${year}년 ${month}월 ${day}일`;
+  const formatted = `${year}년 ${month}월 ${day}일.`;
   return (
     <>
       <View style={[styles.statusBarPlaceholder, {height: top}]} />

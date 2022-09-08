@@ -154,3 +154,6 @@ $ expo install react-native-gesture-handler react-native-reanimated react-native
 $ npm install @react-navigation/stack
 ```
 
+
+
+9/8 1주차 수업 완료
